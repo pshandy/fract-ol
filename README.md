@@ -1,6 +1,6 @@
 # Fract'ol
 
-![screenshot](/screens/screen.png?raw=true)
+![screenshot](/screens/Mandelbrot.png?raw=true)
 
 ## Особенности
 * Render different fractals: mandelbrot, julia, burning ship
