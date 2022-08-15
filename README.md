@@ -14,11 +14,12 @@
 ## Компиляция и запуск
 - make
 
-Run it with `./fractol [fractal]`. Possible fractals are: `mandelbrot`, `julia`,
-`burningship`. Cycle color-schemes with `1-9` on the top row. Increase/decrease
-maximum iterations with `*` and `/` on the numpad. Zoom in and out with the
-mousewheel or with `+` and `-`. Press `Enter` on the numpad to switch between
-smooth coloring and linear coloring.
+- ./fractol Mandelbrot
+- ./fractol Julia [coordinate] [coordinate]
+- ./fractol Burningship
 
-## License
-This project is licensed under the GNU General Public License 3.
+## Возможности
+
+- Перемещение при помощи стрелок
+- Увеличение/уменьшение картинки через колёсико мышки
+- Изменение цвета через +/-
